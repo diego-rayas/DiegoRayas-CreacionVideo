@@ -48,6 +48,7 @@
   * > [Tutorial](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Unity3.unitypackage)
   * > [Laboratorio](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Laboratorio3.unitypackage)
   * > [Desafío](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/challenge%203.unitypackage)
+  * > [Video del Desafio](https://drive.google.com/file/d/1VipTYS9FjKNCOn9FCxffMajpBIQRBGnW/view?usp=sharing)
   * > [Prueba](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Quiz3.png)
 * Lección 4
   * > Tutorial
@@ -66,7 +67,6 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
-
+Diego Manuel Salas Rayas
 ## Copyright
 Derechos Reservados 2022
