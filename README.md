@@ -45,9 +45,9 @@
   * > Desafío
   * > Prueba
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
+  * > [Tutorial](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Unity3.unitypackage)
+  * > [Laboratorio](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Laboratorio3.unitypackage)
+  * > [Desafío](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/challenge%203.unitypackage)
   * > Prueba
 * Lección 4
   * > Tutorial
@@ -55,9 +55,9 @@
   * > Desafío
   * > Prueba
 * Lección 5
-  * > Tutorial
+  * > [Tutorial](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad5/Unity5.unitypackage)
   * > Laboratorio
-  * > Desafío
+  * > [Desafío](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad5/Challenge5.unitypackage)
   * > Prueba
 * VideoJuego
 
