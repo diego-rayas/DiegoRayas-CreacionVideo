@@ -48,7 +48,7 @@
   * > [Tutorial](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Unity3.unitypackage)
   * > [Laboratorio](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Laboratorio3.unitypackage)
   * > [Desafío](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/challenge%203.unitypackage)
-  * > Prueba
+  * > [Prueba](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Quiz3.png)
 * Lección 4
   * > Tutorial
   * > Laboratorio
