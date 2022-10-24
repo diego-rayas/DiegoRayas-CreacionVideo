@@ -46,7 +46,7 @@
   * > Prueba
 * Lección 3
   * > [Tutorial](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Unity3.unitypackage)
-  * > [Laboratorio](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Laboratorio3.unitypackage)
+  * > [Laboratorio](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Lab3.unitypackage)
   * > [Desafío](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/challenge%203.unitypackage)
   * > [Video del Desafio](https://drive.google.com/file/d/1VipTYS9FjKNCOn9FCxffMajpBIQRBGnW/view?usp=sharing)
   * > [Prueba](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Quiz3.png)
@@ -59,7 +59,7 @@
   * > [Tutorial](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad5/Unity5.unitypackage)
   * > Laboratorio
   * > [Desafío](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad5/Challenge5.unitypackage)
-  * > Prueba
+  * > [Prueba](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Quiz5.png)
 * VideoJuego
 
 ## Planificación
