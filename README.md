@@ -58,7 +58,7 @@
   * > [Prueba](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Quiz4.png)
 * Lección 5
   * > [Tutorial](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad5/Unity5.unitypackage)
-  * > Laboratorio
+  * > [Laboratorio](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad5/Lab5.unitypackage)
   * > [Desafío](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad5/Challenge5.unitypackage)
   * > [Prueba](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Quiz5.png)
 * VideoJuego
