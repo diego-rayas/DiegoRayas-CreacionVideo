@@ -88,13 +88,13 @@ En el viejo oeste se llevan a cabo carreras de caballos que además de ser por e
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 * Planeacion
- | Descripción | Fecha |
-| ------------- | ------------- |
-| Crear escenario con los jugadores, obstáculos, pista, fondo y final de la carrera  | 14 de noviembre del 2022  |
-| Primera Ronda de Jugabilidad: los caballos deberán de empezar a avanzar y poder brincar los obstáculos, también se moverá la pista junto el fondo.  | 16 de Noviembre  |
-| Segunda Ronda Jugabilidad: Se agregarán configuraciones para que al chocar o que el otro caballo llegue a la meta primero que el jugador se traiga un mensaje de Game Over | 18 de Noviembre |
- | Tercera Ronda de Jugabilidad: Se le agregaran los botones para que comience el juego y pueda el jugador seleccionar la dificultad, junto a esto se le agregaran las configuraciones de cada nivel de dificultad (velocidad, recompensas y obstáculos), también se le configurara para que el juego termine  | 21 de Noviembre|
- | Cuarta Ronda de Jugabilidad: Se configurará el Score para que se vaya sumando la recompensa y se configurara una base de datos para que se puedan guardar los 10 mejores puntajes junto al nombre del jugador | 25 de Noviembre |
+|Descripción|Fecha:|
+|:----|:----|
+|Crear escenario con los jugadores, obstáculos, pista, fondo y final de la carrera.|14 de noviembre del 2022|
+|Primera Ronda de Jugabilidad: los caballos deberán de empezar a avanzar y poder brincar los obstáculos, también se moverá la pista junto el fondo.|16 de noviembre del 2022|
+|Segunda Ronda Jugabilidad: Se agregarán configuraciones para que al chocar o que el otro caballo llegue a la meta primero que el jugador se traiga un mensaje de Game Over|18 de noviembre del 2022|
+|Tercera Ronda de Jugabilidad: Se le agregaran los botones para que comience el juego y pueda el jugador seleccionar la dificultad, junto a esto se le agregaran las configuraciones de cada nivel de dificultad (velocidad, recompensas y obstáculos), también se le configurara para que el juego termine |21 de noviembre del 2022|
+|Cuarta Ronda de Jugabilidad: Se configurará el Score para que se vaya sumando la recompensa y se configurara una base de datos para que se puedan guardar los 10 mejores puntajes junto al nombre del jugador|25 de noviembre del 2022|
 ## Autores
 Diego Manuel Salas Rayas
 ## Copyright
