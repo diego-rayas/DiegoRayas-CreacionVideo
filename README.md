@@ -24,7 +24,9 @@
 ## Introducción
 
 - Nombre del proyecto
+- * > HIPICA RUN
 - Objetivo.
+- *>
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
 - Personajes
@@ -64,22 +66,35 @@
 * VideoJuego
 HIPICA RUN
 ## Planificación
-Historia:
+* Historia:
 En el viejo oeste se llevan a cabo carreras de caballos que además de ser por el honor, se ganan un barril de cerveza bien fría. El caballo Troya es un caballo muy exitoso en las carreras de caballos y ha hecho ganar muchas veces a los que apuestan por él, pero un nuevo caballo ha llegado a competir por el trono de las carreras por lo que Troya esta dispuesto a competir con el para mostrar quien es el mejor por lo que en el juego tu tienes la oportunidad de poder ayudar al nuevo caballo a ganarle a troya, este juego está dividido en 3 diferentes niveles donde tu debes de comprobar que eres el mejor y lo puedes derrotar en los 3 niveles existentes y después de la carrera tu recompensa será ganar una deliciosa cerveza, también debes de tener en cuenta que en el transcurso de la carrera se irán presentando obstáculos para ti pero también tendrás la oportunidad de tomar potenciadores que te ayudaran a ir más rápido durante cierto tiempo, además podrás ir recogiendo monedas durante la carrera que tendrán un valor especifico y será el dinero que ganes por la carrera.
--	3 NIVELES DE DIFICULTAD
+* Objetivo: 
+-Ganar 2 carreras de caballos con el caballo de Bucefalo enfrentando a Troya en sus dos niveles de poder y obtener la mayor puntuación para estar en el top 10 de jugadores.
+*Detalles
+-	3 NIVELES DE DIFICULTAD que podrá seleccionar el jugador según la capacidad que crea tener y la recompensa que quiera obtener
 -	Personajes: Caballo Troya(computadora) y Caballo Bucéfalo(player) 
--	Reglas: 
+* Reglas: 
 * >	El player gana el nivel cuando cruza la meta primero que el caballo troya
 * >	Puede elegir los 3 tipos de dificultad que están disponibles en el juego
 * >	Se guarda el record de puntuación 
 * >	Habrá monedas en la pista y entre más monedas, podrá aumentar más la puntuación
 * > Podrás recoger potenciadores que te darán el turbo durante 3 segundos.
 * >	Durante la carrera habrá obstáculos y si llegas a chocar con algún obstáculo el juego terminará y perderás.
+* >Tendrá 2 niveles, serán en el viejo oeste, por defecto se iniciara con el primer nivel, al ganar el primer nivel al caballo de troya se podrá iniciar el segundo nivel donde se enfrentara el player al caballo de troya mejorado para poder coronarse campeón.
+* > Puntuación Inicial: se iniciará con una puntuación(recompensa) 0 y e ira acumulado según el ora que vaya agarrando y se le dará esta recompensa si logra ganar la carrera. 
 
-
-
+* Bosquejo 
+* [![db217146-1417-4ca4-a046-f903055505b0.jpg](https://i.postimg.cc/KzJqyZf4/db217146-1417-4ca4-a046-f903055505b0.jpg)](https://postimg.cc/340CXQPH)
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
+* Planeacion
+ | Descripción | Fecha |
+| ------------- | ------------- |
+| Crear escenario con los jugadores, obstáculos, pista, fondo y final de la carrera  | 14 de noviembre del 2022  |
+| Primera Ronda de Jugabilidad: los caballos deberán de empezar a avanzar y poder brincar los obstáculos, también se moverá la pista junto el fondo.  | 16 de Noviembre  |
+| Segunda Ronda Jugabilidad: Se agregarán configuraciones para que al chocar o que el otro caballo llegue a la meta primero que el jugador se traiga un mensaje de Game Over | 18 de Noviembre |
+ | Tercera Ronda de Jugabilidad: Se le agregaran los botones para que comience el juego y pueda el jugador seleccionar la dificultad, junto a esto se le agregaran las configuraciones de cada nivel de dificultad (velocidad, recompensas y obstáculos), también se le configurara para que el juego termine  | 21 de Noviembre|
+ | Cuarta Ronda de Jugabilidad: Se configurará el Score para que se vaya sumando la recompensa y se configurara una base de datos para que se puedan guardar los 10 mejores puntajes junto al nombre del jugador | 25 de Noviembre |
 ## Autores
 Diego Manuel Salas Rayas
 ## Copyright
