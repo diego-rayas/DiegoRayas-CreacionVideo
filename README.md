@@ -67,15 +67,15 @@
 HIPICA RUN
 ## Planificación
 * Historia:
-En el viejo oeste se llevan a cabo carreras de caballos que además de ser por el honor, se ganan un barril de cerveza bien fría. El caballo Troya es un caballo muy exitoso en las carreras de caballos y ha hecho ganar muchas veces a los que apuestan por él, pero un nuevo caballo ha llegado a competir por el trono de las carreras por lo que Troya esta dispuesto a competir con el para mostrar quien es el mejor por lo que en el juego tu tienes la oportunidad de poder ayudar al nuevo caballo a ganarle a troya, este juego está dividido en 3 diferentes niveles donde tu debes de comprobar que eres el mejor y lo puedes derrotar en los 3 niveles existentes y después de la carrera tu recompensa será ganar una deliciosa cerveza, también debes de tener en cuenta que en el transcurso de la carrera se irán presentando obstáculos para ti pero también tendrás la oportunidad de tomar potenciadores que te ayudaran a ir más rápido durante cierto tiempo, además podrás ir recogiendo monedas durante la carrera que tendrán un valor especifico y será el dinero que ganes por la carrera.
+En el viejo oeste se llevan a cabo carreras de caballos que además de ser por el honor, se ganan un motín de oro. El caballo Troya es un caballo muy exitoso en las carreras de caballos y ha hecho ganar muchas veces a los que apuestan por él, pero un nuevo caballo ha llegado a competir por el trono de las carreras por lo que Troya esta dispuesto a competir con el para mostrar quien es el mejor por lo que en el juego tu tienes la oportunidad de poder ayudar al nuevo caballo a ganarle a troya, este juego está dividido en 2 diferentes niveles donde tu debes de comprobar que eres el mejor y lo puedes derrotar y después de la carrera tu recompensa será ganar algo de oro, también debes de tener en cuenta que en el transcurso de la carrera se irán presentando obstáculos para ti pero también tendrás la oportunidad de tomar potenciadores que te ayudaran a ir más rápido durante cierto tiempo, además podrás ir recogiendo monedas durante la carrera que tendrán un valor especifico y será el dinero que ganes por la carrera.
+![image](https://user-images.githubusercontent.com/72763597/204724307-dd85eff6-f563-49db-b02a-fbdda7be3f5b.png)
 * Objetivo: 
 -Ganar 2 carreras de caballos con el caballo de Bucefalo enfrentando a Troya en sus dos niveles de poder y obtener la mayor puntuación para estar en el top 10 de jugadores.
 *Detalles
--	3 NIVELES DE DIFICULTAD que podrá seleccionar el jugador según la capacidad que crea tener y la recompensa que quiera obtener
+-	2 NIVELES DE JUEGO que podrá pasar el jugador según la capacidad que crea tener y la recompensa que quiera obtener
 -	Personajes: Caballo Troya(computadora) y Caballo Bucéfalo(player) 
 * Reglas: 
 * >	El player gana el nivel cuando cruza la meta primero que el caballo troya
-* >	Puede elegir los 3 tipos de dificultad que están disponibles en el juego
 * >	Se guarda el record de puntuación 
 * >	Habrá monedas en la pista y entre más monedas, podrá aumentar más la puntuación
 * > Podrás recoger potenciadores que te darán el turbo durante 3 segundos.
